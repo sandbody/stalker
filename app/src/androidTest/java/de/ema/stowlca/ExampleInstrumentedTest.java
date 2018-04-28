@@ -1,4 +1,4 @@
-package de.ema.stalker;
+package de.ema.stowlca;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("de.ema.stalker", appContext.getPackageName());
+        assertEquals("de.ema.stwolca", appContext.getPackageName());
     }
 }

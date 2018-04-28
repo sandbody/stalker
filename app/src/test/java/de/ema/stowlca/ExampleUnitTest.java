@@ -1,4 +1,4 @@
-package de.ema.stalker;
+package de.ema.stowlca;
 
 import org.junit.Test;
 
